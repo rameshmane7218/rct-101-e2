@@ -70,6 +70,54 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "title": "fsd",
+      "category": "shirt",
+      "gender": "male",
+      "price": "343",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 10
+    },
+    {
+      "title": "ewrq",
+      "category": "shirt",
+      "gender": "male",
+      "price": "111",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 11
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "fldk",
+      "category": "shirt",
+      "gender": "unisex",
+      "price": "12",
+      "id": 12
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "fldkfd",
+      "category": "Pant",
+      "gender": "male",
+      "price": "12000",
+      "id": 13
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "fldkfd",
+      "category": "Pant",
+      "gender": "male",
+      "price": "12000",
+      "id": 14
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "fe",
+      "category": "shirt",
+      "gender": "female",
+      "price": "232",
+      "id": 15
     }
   ]
 }
