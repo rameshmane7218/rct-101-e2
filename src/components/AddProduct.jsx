@@ -50,10 +50,10 @@ const AddProduct = ({getProducts}) => {
       gender: value,
     });
   }
-  console.log(form);
+  // console.log(form);
   const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log("submitted");
+    // console.log("submitted");
 
     try{
       await axios.post(`http://localhost:8080/products`,form);

@@ -118,6 +118,22 @@
       "gender": "female",
       "price": "232",
       "id": 15
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "fds",
+      "category": "shirt",
+      "gender": "female",
+      "price": "234",
+      "id": 16
+    },
+    {
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "title": "fds",
+      "category": "Pant",
+      "gender": "female",
+      "price": "43432",
+      "id": 17
     }
   ]
 }
